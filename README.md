@@ -3,9 +3,9 @@ Super Mario LaTeX
 
 Have you ever wanted to mark the point where you stopped writing a LaTeX document — to easily find it for resuming latex — with the help of Mario (`\mario`) or Bowser (`\bowser`)? Here is how.
 
-<img src="Screenshot 2016-11-04 19.28.25.png" width=“300px" />
+<img src="Screenshot 2016-11-04 19.28.25.png" width="300px" />
 
-<img src="Screenshot 2016-11-05 19.32.45.png" width=“300px" />
+<img src="Screenshot 2016-11-05 19.32.45.png" width="300px" />
 
 # Required latex packages
 
